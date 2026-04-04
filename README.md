@@ -37,7 +37,6 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 # Accountability
 
 #include <std_disclaimer.h>
-
 /*
 * Your warranty is now void.
 *
