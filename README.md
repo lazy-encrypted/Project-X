@@ -10,29 +10,17 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 # Features
 
 • Based on the latest stable OneUI 5.1 Galaxy A52s firmware
-
 • Heavily Debloated
-
 • HighEnd Animations
-
 • NO Live Blur for better performance
-
 • NO Galaxy AI for less bloat
-
 • NO KnoxPatch
-
 • Stock models in Settings and user apps
-
 • Allow screenshots on secure apps
-
 • Countless other small optimizations
-
 • Fixed Perf-Hal
-
 • Fixed Hyper-Hal
-
 • Vendor optimized for not_kernel
-
 • More that I can't remember right now and will have to be added in the future
 
 # Licensing
