@@ -37,8 +37,8 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 # Accountability
 
 #include <std_disclaimer.h>
-/*
 
+/*
 * Your warranty is now void.
 *
 * I am not responsible for bricked devices, dead SD cards,
@@ -50,6 +50,5 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 * I am also not responsible for you getting in trouble for using any of the
 * features in this ROM, including but not limited to Call Recording, secure
 * flag removal etc.
-
 */
 
