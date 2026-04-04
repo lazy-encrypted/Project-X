@@ -1,9 +1,9 @@
 # Project-X
-Project X is a work-in-progress custom firmware for Samsung Galaxy devices.
+Project X is a work-in-progress custom firmware for S20 FE Qualcomm (r8q), organized into layers, namely, Platinum OneUI 5.1, Emerald 6.x.x and Gold OneUI 7.
 
 It's based on greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 
-Project X supports only S20 FE Qualcomm (r8q) for now
+Project X supports only S20 FE Qualcomm (r8q)
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
