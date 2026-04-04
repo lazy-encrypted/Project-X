@@ -16,7 +16,7 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 • NO Galaxy AI for less bloat
 • NO KnoxPatch
 • Stock models in Settings and user apps
-• Allow screenshots on secure apps
+• Disabled secure flag
 • Countless other small optimizations
 • Fixed Perf-Hal
 • Fixed Hyper-Hal
