@@ -3,7 +3,7 @@ Project X is a work-in-progress custom firmware for Samsung Galaxy devices.
 
 It's based on the best and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 
-Project X supports only S20 FE Qualcomm (r8q)
+Project X supports only S20 FE Qualcomm (r8q) for now
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
