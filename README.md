@@ -23,6 +23,8 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • Stock models in Settings and user apps
 
+• Allow screenshots on secure apps
+
 • Countless other small optimizations
 
 • Fixed Perf-Hal
