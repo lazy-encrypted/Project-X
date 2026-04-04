@@ -15,6 +15,8 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • HighEnd Animations
 
+• Dex support
+
 • NO Live Blur for better performance
 
 • NO Galaxy AI for less bloat
@@ -25,13 +27,13 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • Disabled secure flag
 
-• Countless other small optimizations
-
 • Fixed Perf-Hal
 
 • Fixed Hyper-Hal
 
 • Vendor optimized for not_kernel
+
+• Countless other small optimizations
 
 • More that I can't remember right now and will have to be added in the future
 
