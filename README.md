@@ -17,9 +17,9 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • HighEnd Animations
 
-• NO Live Blur for better performance
+• NO Live Blur
 
-• NO Galaxy AI for less bloat
+• NO Galaxy AI 
 
 • NO KnoxPatch
 
