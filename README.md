@@ -27,6 +27,8 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • Disabled secure flag
 
+• Full SELinux Support
+
 • Fixed Perf-Hal
 
 • Fixed Hyper-Hal
