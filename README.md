@@ -57,4 +57,7 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 
 [ShaDisNX255](https://github.com/ShaDisNX255) for his [NcX ROM](https://github.com/ShaDisNX255/NcX_Stock) which inspired this project
 
-[skye](https://github.com/skye-tachyon) for his incredible [kernel](https://github.com/skye-tachyon/not_sm8250-4.19)
+[Skye](https://github.com/skye-tachyon) for his incredible [kernel](https://github.com/skye-tachyon/not_sm8250-4.19)
+
+
+[Nihil](https://github.com/haxislancelot) for helping me with Hyper-hal, Perf-hal and general help
