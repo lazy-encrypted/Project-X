@@ -60,4 +60,4 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 [Skye](https://github.com/skye-tachyon) for his incredible [kernel](https://github.com/skye-tachyon/not_sm8250-4.19)
 
 
-[Nihil](https://github.com/haxislancelot) for helping me with Hyper-hal, Perf-hal and general help
+[Nihil](https://github.com/haxislancelot) for helping me with Hyper-hal, Perf-hal fix and general help
